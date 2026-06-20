@@ -40,5 +40,3 @@ An AI-powered asset management system designed to help track, monitor, and manag
 ### 📫 Contact Me
 
 - Email: syedahabali06@gmail.com
-- GitHub: github.com/Ahab-ali
-- LinkedIn: Add your LinkedIn link here
