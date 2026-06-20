@@ -39,4 +39,4 @@ An AI-powered asset management system designed to help track, monitor, and manag
 
 ### 📫 Contact Me
 
-- Email: syedahabali06@gmail.com
+- Email: ahabali2003@hotmail.com
