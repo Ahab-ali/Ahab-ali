@@ -24,12 +24,14 @@
 
 I am a recent **Computer Science graduate from NED University** with a specialization in **Data Science**. My main interests are **Data Analysis, Business Intelligence, SQL, Power BI, Machine Learning**, and building practical data-driven projects.
 
-I enjoy working with data, cleaning messy datasets, creating dashboards, and turning raw information into useful insights that can support better decision-making.
+I enjoy working with data, cleaning messy datasets, creating dashboards, and turning raw information into clear insights that can support better decision-making.
 
-* 🔭 Final Year Project: **AI-Based Asset Management System**
-* 📊 Interested in **Data Analyst, Business Intelligence, and entry-level Data Science roles**
-* 🌱 Currently improving my skills in **SQL, Python, Power BI, Excel, and BI dashboards**
-* ⚡ Goal: Build practical data projects that solve real-world problems
+### What I’m focused on
+
+* 🔭 **Final Year Project:** AI-Based Asset Management System
+* 📊 **Career Interest:** Data Analyst, Business Intelligence, and entry-level Data Science roles
+* 🌱 **Currently Improving:** SQL, Python, Power BI, Excel, and dashboard design
+* ⚡ **Goal:** Build practical data projects that solve real-world problems
 
 ---
 
