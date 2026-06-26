@@ -74,7 +74,6 @@ The project uses location and time-based features to forecast ride demand and in
 * Power BI dashboards
 * Data cleaning and visualization
 * Machine learning project structure
-* GitHub portfolio improvement
 
 ---
 
