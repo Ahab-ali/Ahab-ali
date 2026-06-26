@@ -1,169 +1,196 @@
-<h1 align="center">⚡ Syed Ahab Ali</h1>
-
-<h3 align="center">
-  Computer Science Graduate | Data Science Specialization | Aspiring Data Analyst
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=print(%22Aspiring+Data+Analyst%22);SELECT+insights+FROM+data;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+raw+data+into+useful+decisions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00BFFF&height=190&section=header&text=Syed%20Ahab%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Data%20Science%20Specialization%20%7C%20Aspiring%20Data%20Analyst&descSize=16&descColor=E0FFFF&descAlignY=58" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-in%20progress-161B22?style=for-the-badge&logo=python&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/SQL-querying%20data-161B22?style=for-the-badge&logo=mysql&logoColor=58A6FF">
-  <img src="https://img.shields.io/badge/Power%20BI-dashboarding-161B22?style=for-the-badge&logo=powerbi&logoColor=F2C811">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:ahabali2003@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-ahabali2003%40hotmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
-  </a>
-  <a href="https://github.com/Ahab-ali">
-    <img src="https://img.shields.io/badge/GitHub-Ahab--ali-0D1117?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Karachi-Pakistan-0D1117?style=for-the-badge&logo=googlemaps&logoColor=39FF14">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=Data+Analysis+%7C+Business+Intelligence+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI+%7C+Dashboards;Turning+raw+data+into+clear+business+insights" />
 
----
+<br><br>
 
-<p align="center">
-  <code>data.clean()</code> • <code>sql.query()</code> • <code>dashboard.build()</code> • <code>model.train()</code>
-</p>
+<a href="mailto:ahabali2003@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-ahabali2003%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Ahab-ali">
+  <img src="https://img.shields.io/badge/GitHub-Ahab--ali-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Karachi-Pakistan-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
 I am a recent **Computer Science graduate from NED University** with a specialization in **Data Science**.
-I am interested in **Data Analysis, Business Intelligence, SQL, Power BI, Machine Learning**, and building practical data-driven projects.
+My main interests are **Data Analysis, Business Intelligence, SQL, Power BI, Machine Learning**, and building practical data-driven projects.
 
-* 🔭 Final Year Project: **AI-Based Asset Management System**
-* 🌱 Currently improving my skills in **SQL, Python, Power BI, Excel, and BI dashboards**
-* 📊 Interested in **Data Analyst, Business Intelligence, and entry-level Data Science roles**
-* ⚡ I enjoy turning raw data into useful insights and clean dashboards
+```python
+class AhabAli:
+    role = "Aspiring Data Analyst"
+    degree = "Computer Science - Data Science Specialization"
+    location = "Karachi, Pakistan"
+
+    skills = [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Excel",
+        "Machine Learning",
+        "BI Dashboards"
+    ]
+
+    current_focus = [
+        "Improving SQL and database skills",
+        "Building better dashboards",
+        "Creating a stronger data portfolio",
+        "Learning practical machine learning workflows"
+    ]
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,js,ts,nextjs,react,django,fastapi,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-161B22?style=for-the-badge&logo=python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/SQL-Beginner%20to%20Intermediate-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1">
-  <img src="https://img.shields.io/badge/Power%20BI-Beginner-161B22?style=for-the-badge&logo=powerbi&logoColor=F2C811">
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-161B22?style=for-the-badge&logo=microsoftexcel&logoColor=217346">
-  <img src="https://img.shields.io/badge/Streamlit-Dashboard-161B22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Basics-161B22?style=for-the-badge">
-</p>
-
----
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AI-Based Asset Management System</h3>
-      <p>
-        An AI-powered asset management system designed to help institutions track, inspect, monitor, and manage assets more efficiently.
-      </p>
-      <p>
-        <b>Tech:</b> Python, Django REST Framework, Next.js, TypeScript, PostgreSQL, LangChain, OpenAI API, QR Code Generation, Report Generation
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-Backend">Backend Repo</a> •
-        <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-Frontend">Frontend Repo</a> •
-        <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-AI">AI Repo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Ride Services DWBI Project</h3>
-      <p>
-        A Data Warehouse and Business Intelligence project for ride-service analytics, dashboard reporting, ETL concepts, and ML-based predictions.
-      </p>
-      <p>
-        <b>Tech:</b> Python, Streamlit, Pandas, Scikit-learn, ETL, Data Warehousing, Business Intelligence
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ahab-ali/Ride-Services-DWBI-Project">View Repository</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚕 DL Rides Karachi Demand Prediction</h3>
-      <p>
-        A deep learning-based ride demand prediction system for Karachi using time and location-based features.
-      </p>
-      <p>
-        <b>Tech:</b> Python, GRU, Deep Learning, Streamlit, FastAPI, DVC, H3 Geospatial Indexing, Machine Learning
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ahab-ali/DL-Rides-Karachi-Demand-Prediction">View Repository</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 Portfolio Focus</h3>
-      <p>
-        My current focus is improving my data portfolio with practical projects related to analytics, dashboards, databases, and machine learning.
-      </p>
-      <p>
-        <b>Areas:</b> SQL, Power BI, Python, Data Cleaning, Visualization, BI Reporting
-      </p>
-    </td>
-  </tr>
-</table>
+### Languages, Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,js,ts,nextjs,react,django,fastapi,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-Beginner%20to%20Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Basics-7B68EE?style=for-the-badge" />
 
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-Based Asset Management System</h3>
+      <p>
+        An AI-powered asset management system designed to help institutions track, inspect, monitor, and manage assets more efficiently.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        Python, Django REST Framework, Next.js, TypeScript, PostgreSQL, LangChain, OpenAI API, QR Code Generation, Report Generation
+      </p>
+      <p>
+        <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-Backend">
+          <img src="https://img.shields.io/badge/Backend-View%20Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-Frontend">
+          <img src="https://img.shields.io/badge/Frontend-View%20Repo-green?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-AI">
+          <img src="https://img.shields.io/badge/AI-View%20Repo-purple?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Ride Services DWBI Project</h3>
+      <p>
+        A Data Warehouse and Business Intelligence project for ride-service analytics, dashboard reporting, ETL concepts, and ML-based predictions.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        Python, Streamlit, Pandas, Scikit-learn, ETL, Data Warehousing, Business Intelligence
+      </p>
+      <p>
+        <a href="https://github.com/Ahab-ali/Ride-Services-DWBI-Project">
+          <img src="https://img.shields.io/badge/View%20Project-Repository-orange?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚕 DL Rides Karachi Demand Prediction</h3>
+      <p>
+        A deep learning-based ride demand prediction system for Karachi using time and location-based features.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        Python, GRU, Deep Learning, Streamlit, FastAPI, DVC, H3 Geospatial Indexing, Machine Learning
+      </p>
+      <p>
+        <a href="https://github.com/Ahab-ali/DL-Rides-Karachi-Demand-Prediction">
+          <img src="https://img.shields.io/badge/View%20Project-Repository-00BFFF?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Portfolio Focus</h3>
+      <p>
+        I am currently improving my data portfolio with projects related to analytics, dashboards, databases, and machine learning.
+      </p>
+      <p>
+        <b>Current Areas:</b><br>
+        SQL, Power BI, Python, Data Cleaning, Visualization, BI Reporting
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Actively%20Improving-success?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Advanced%20SQL-Queries-161B22?style=for-the-badge&logo=sqlite&logoColor=58A6FF">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-161B22?style=for-the-badge&logo=powerbi&logoColor=F2C811">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=150458">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Project%20Structure-161B22?style=for-the-badge">
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20SQL-Queries-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Cleaning-Pandas-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Projects-purple?style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ahab-ali&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahab-ali&layout=compact&theme=github_dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahab-ali&theme=github-dark-blue" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahab-ali&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahab-ali&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+<br><br>
 
-## 📫 Connect With Me
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahab-ali&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <a href="mailto:ahabali2003@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
-  </a>
-  <a href="https://github.com/Ahab-ali">
-    <img src="https://img.shields.io/badge/GitHub-View%20Profile-161B22?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile.;Data+%2B+Code+%2B+Dashboards+%3D+Better+Decisions." />
-</p>
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:ahabali2003@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Ahab-ali">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile.;Data+%2B+Code+%2B+Dashboards+%3D+Better+Decisions." />
+
+</div>
 
 <p align="center">
-  <code>while(learning) { buildProjects(); improveSkills(); }</code>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:243B55,100:141E30&height=120&section=footer" />
 </p>
