@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00BFFF&height=190&section=header&text=Syed%20Ahab%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Data%20Science%20Specialization%20%7C%20Aspiring%20Data%20Analyst&descSize=16&descColor=E0FFFF&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00BFFF&height=160&section=header&text=Syed%20Ahab%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Data%20Science%20Specialization%20%7C%20Aspiring%20Data%20Analyst&descSize=16&descColor=E0FFFF&descAlignY=62" />
 </p>
 
 <div align="center">
@@ -22,31 +22,14 @@
 
 ## 👨‍💻 About Me
 
-I am a recent **Computer Science graduate from NED University** with a specialization in **Data Science**.
-My main interests are **Data Analysis, Business Intelligence, SQL, Power BI, Machine Learning**, and building practical data-driven projects.
+I am a recent **Computer Science graduate from NED University** with a specialization in **Data Science**. My main interests are **Data Analysis, Business Intelligence, SQL, Power BI, Machine Learning**, and building practical data-driven projects.
 
-```python
-class AhabAli:
-    role = "Aspiring Data Analyst"
-    degree = "Computer Science - Data Science Specialization"
-    location = "Karachi, Pakistan"
+I enjoy working with data, cleaning messy datasets, creating dashboards, and turning raw information into useful insights that can support better decision-making.
 
-    skills = [
-        "Python",
-        "SQL",
-        "Power BI",
-        "Excel",
-        "Machine Learning",
-        "BI Dashboards"
-    ]
-
-    current_focus = [
-        "Improving SQL and database skills",
-        "Building better dashboards",
-        "Creating a stronger data portfolio",
-        "Learning practical machine learning workflows"
-    ]
-```
+* 🔭 Final Year Project: **AI-Based Asset Management System**
+* 📊 Interested in **Data Analyst, Business Intelligence, and entry-level Data Science roles**
+* 🌱 Currently improving my skills in **SQL, Python, Power BI, Excel, and BI dashboards**
+* ⚡ Goal: Build practical data projects that solve real-world problems
 
 ---
 
@@ -131,7 +114,7 @@ class AhabAli:
     <td width="50%" valign="top">
       <h3>📈 Portfolio Focus</h3>
       <p>
-        I am currently improving my data portfolio with projects related to analytics, dashboards, databases, and machine learning.
+        I am currently improving my data portfolio with practical projects related to analytics, dashboards, databases, and machine learning.
       </p>
       <p>
         <b>Current Areas:</b><br>
@@ -192,5 +175,5 @@ class AhabAli:
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:243B55,100:141E30&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:243B55,100:141E30&height=110&section=footer" />
 </p>
