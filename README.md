@@ -49,50 +49,52 @@ I am interested in **Data Analysis, Business Intelligence, SQL, Power BI, Machin
 
 ## 🚀 Featured Projects
 
-<table>
+<div align="center">
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3>🤖 AI-Based Asset Management System</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI-Based Asset Management System</h3>
       <p>
         An AI-powered asset management system designed to help institutions track, inspect, monitor, and manage assets more efficiently.
       </p>
       <p>
         <b>Tech:</b> Python, Django REST Framework, Next.js, TypeScript, PostgreSQL, LangChain, OpenAI API, QR Code Generation, Report Generation
       </p>
-      <p>
-        🔗 <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-Backend">Backend Repo</a><br>
-        🔗 <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-Frontend">Frontend Repo</a><br>
-        🔗 <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-AI">AI Repo</a>
+      <p align="center">
+        <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-Backend">Backend Repo</a> •
+        <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-Frontend">Frontend Repo</a> •
+        <a href="https://github.com/Ahab-ali/AI-based-Asset-Management-System-AI">AI Repo</a>
       </p>
     </td>
-    <td width="50%">
-      <h3>📊 Ride Services DWBI Project</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Ride Services DWBI Project</h3>
       <p>
         A Data Warehouse and Business Intelligence project for ride-service analytics, dashboard reporting, ETL concepts, and ML-based predictions.
       </p>
       <p>
         <b>Tech:</b> Python, Streamlit, Pandas, Scikit-learn, ETL, Data Warehousing, Business Intelligence
       </p>
-      <p>
-        🔗 <a href="https://github.com/Ahab-ali/Ride-Services-DWBI-Project">View Repository</a>
+      <p align="center">
+        <a href="https://github.com/Ahab-ali/Ride-Services-DWBI-Project">View Repository</a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🚕 DL Rides Karachi Demand Prediction</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🚕 DL Rides Karachi Demand Prediction</h3>
       <p>
         A deep learning-based ride demand prediction system for Karachi using time and location-based features.
       </p>
       <p>
         <b>Tech:</b> Python, GRU, Deep Learning, Streamlit, FastAPI, DVC, H3 Geospatial Indexing, Machine Learning
       </p>
-      <p>
-        🔗 <a href="https://github.com/Ahab-ali/DL-Rides-Karachi-Demand-Prediction">View Repository</a>
+      <p align="center">
+        <a href="https://github.com/Ahab-ali/DL-Rides-Karachi-Demand-Prediction">View Repository</a>
       </p>
     </td>
-    <td width="50%">
-      <h3>📈 Portfolio Focus</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Portfolio Focus</h3>
       <p>
         My current focus is improving my data portfolio with practical projects related to analytics, dashboards, databases, and machine learning.
       </p>
@@ -102,6 +104,9 @@ I am interested in **Data Analysis, Business Intelligence, SQL, Power BI, Machin
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ---
 
