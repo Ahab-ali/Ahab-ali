@@ -1,19 +1,33 @@
+<h1 align="center">⚡ Syed Ahab Ali</h1>
+
+<h3 align="center">
+  Computer Science Graduate | Data Science Specialization | Aspiring Data Analyst
+</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=130&section=header&text=%3C%2F%3E%20Syed%20Ahab%20Ali&fontSize=38&fontColor=58A6FF&animation=twinkling&fontAlignY=45&desc=Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Data%20Analytics&descSize=16&descColor=8B949E&descAlignY=72" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=print(%22Aspiring+Data+Analyst%22);SELECT+insights+FROM+data;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+raw+data+into+useful+decisions" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+print(%22Aspiring+Data+Analyst%22);%3E+SELECT+insights+FROM+data;%3E+Building+Dashboards+%7C+Cleaning+Data+%7C+Learning+ML;%3E+Turning+raw+data+into+useful+decisions" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-in%20progress-161B22?style=for-the-badge&logo=python&logoColor=39FF14">
+  <img src="https://img.shields.io/badge/SQL-querying%20data-161B22?style=for-the-badge&logo=mysql&logoColor=58A6FF">
+  <img src="https://img.shields.io/badge/Power%20BI-dashboarding-161B22?style=for-the-badge&logo=powerbi&logoColor=F2C811">
 </p>
 
 <p align="center">
   <a href="mailto:ahabali2003@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-ahabali2003%40hotmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
+    <img src="https://img.shields.io/badge/Email-ahabali2003%40hotmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
   <a href="https://github.com/Ahab-ali">
-    <img src="https://img.shields.io/badge/GitHub-Ahab--ali-161B22?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-Ahab--ali-0D1117?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/Location-Karachi,%20Pakistan-161B22?style=for-the-badge&logo=googlemaps&logoColor=39FF14">
+  <img src="https://img.shields.io/badge/Karachi-Pakistan-0D1117?style=for-the-badge&logo=googlemaps&logoColor=39FF14">
+</p>
+
+---
+
+<p align="center">
+  <code>data.clean()</code> • <code>sql.query()</code> • <code>dashboard.build()</code> • <code>model.train()</code>
 </p>
 
 ---
@@ -144,6 +158,12 @@ I am interested in **Data Analysis, Business Intelligence, SQL, Power BI, Machin
   </a>
 </p>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile.;Data+%2B+Code+%2B+Dashboards+%3D+Better+Decisions." />
+</p>
+
+<p align="center">
+  <code>while(learning) { buildProjects(); improveSkills(); }</code>
 </p>
